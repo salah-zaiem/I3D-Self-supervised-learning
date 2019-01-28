@@ -1,0 +1,6 @@
+train0 /proxy/train0 5 60
+train1 /proxy/train1 5 79
+train2 /proxy/train2 5 29
+train3 /proxy/train3 5 79
+train4 /proxy/train4 5 114
+train5 /proxy/train5 5 109
